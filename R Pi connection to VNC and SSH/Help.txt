@@ -1,0 +1,17 @@
+ssh helps in activation of SSH in RPi and should not have any file extension
+
+wpa file will help in connection of the desired wifi connection when RPi is turned on
+edit in notepad
+
+Open Advanced Ip scanner or any Ip scanner
+
+find raspberry's ip (SHOULD BE CONNECTED TO SAME WIFI)
+
+paste in PuTTY and port to 22
+
+
+login as: pi
+password: raspberry
+
+
+do it with VnC too
